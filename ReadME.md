@@ -1,4 +1,4 @@
-# Sully Deep Space Industries – Parts Pack
+# SullyEngineer – Parts Pack
 
 **Created by:** [Sullydux](https://github.com/sullydux)  
 **Game Version:** Kerbal Space Program **1.12.5**  
@@ -7,7 +7,7 @@
 ---
 
 ## Overview
-This is a collection of custom parts designed and configured for enhanced deep-space exploration in KSP. All parts are created under the manufacturer name **Sully Deep Space Industries**.
+This is a collection of parts made for enhanced deep-space exploration in KSP. All parts are created under the manufacturer name **Sully Deep Space Industries**.
 
 You are free to **use, modify, and redistribute** these files for any purpose.  
 Please note that I take **no responsibility** for game crashes, data loss, or other issues resulting from the use of this mod.
