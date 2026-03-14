@@ -15,4 +15,4 @@ Note: If you want a conect node at the surface of a side change the 2nd value in
 
 
 Versions:
-1.0- Release- PB-NUK XL Fission Reactor, Dawn XL Electric Propulsion System, & XN-200 Hyperion Xenon Tank.
+1.0- Release: PB-NUK XL Fission Reactor, Dawn XL Electric Propulsion System, & XN-200 Hyperion Xenon Tank.
