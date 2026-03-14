@@ -20,3 +20,5 @@ Please note that I take **no responsibility** for game crashes, data loss, or ot
 - **PB-NUK XL Fission Reactor**  
 - **Dawn XL Electric Propulsion System**  
 - **XN-200 Hyperion Xenon Tank**
+### v2.0 – Added Fuel Tank
+- **QuadProp MultiMix Tank**
