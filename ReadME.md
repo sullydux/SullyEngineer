@@ -1,18 +1,22 @@
-# Sully Deep Space Industries Parts
+# Sully Deep Space Industries – Parts Pack
 
-Created by **Sullydux** (GitHub: https://github.com/sullydux)
+**Created by:** [Sullydux](https://github.com/sullydux)  
+**Game Version:** Kerbal Space Program **1.12.5**  
+**Dependencies:** *None* (uses stock KSP only)
 
-For Kerbal Space Program **1.12.5**.  
-Dependencies: **none** (stock KSP only).
+---
 
-You may use, modify, and redistribute these configs and parts for any purpose.
-I am not responsible for game crashes, data loss, or other issues caused by using this mod.
+## Overview
+This is a collection of custom parts designed and configured for enhanced deep-space exploration in KSP. All parts are created under the manufacturer name **Sully Deep Space Industries**.
 
-All custom parts by me use the manufacturer name: **Sully Deep Space Industries**.
+You are free to **use, modify, and redistribute** these files for any purpose.  
+Please note that I take **no responsibility** for game crashes, data loss, or other issues resulting from the use of this mod.
 
+---
 
-Note: If you want a conect node at the surface of a side change the 2nd value in node_stack_top & node_stack_bottom in the correct .cfg.
+## Versions
 
-
-Versions:
-1.0- Release: PB-NUK XL Fission Reactor, Dawn XL Electric Propulsion System, & XN-200 Hyperion Xenon Tank.
+### v1.0 – Initial Release
+- **PB-NUK XL Fission Reactor**  
+- **Dawn XL Electric Propulsion System**  
+- **XN-200 Hyperion Xenon Tank**
