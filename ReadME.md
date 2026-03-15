@@ -22,3 +22,7 @@ Please note that I take **no responsibility** for game crashes, data loss, or ot
 - **XN-200 Hyperion Xenon Tank**
 ### v2.0 – Added Fuel Tank
 - **QuadProp MultiMix Tank**
+### v2.1 - Fixes
+- **QuadProp Multimix Tank now called Radial-5 MultiMix Tank**
+- **Fixed texture of the tank**
+- **Updated descriptions**
