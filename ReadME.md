@@ -26,3 +26,8 @@ Please note that I take **no responsibility** for game crashes, data loss, or ot
 - **QuadProp Multimix Tank now called Radial-5 MultiMix Tank**
 - **Fixed texture of the tank**
 - **Updated descriptions**
+### v2.2 - Fixes
+- **Changed the Dawn XL Electric Propulsion System**
+### v2.2 - Fixes
+- **Made MultiMix Tank and Dawn XL nodes in correct place**
+- **Made the Fission Reactor able to power the electricity needs of 1 Dawn Xl**
