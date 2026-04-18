@@ -31,3 +31,5 @@ Please note that I take **no responsibility** for game crashes, data loss, or ot
 ### v2.2 - Fixes
 - **Made MultiMix Tank and Dawn XL nodes in correct place**
 - **Made the Fission Reactor able to power the electricity needs of 1 Dawn Xl**
+### v3.2 - Added a RTG
+- **New RTG reactor for Near Future Propulsion engines so you don't have to get another mod**
